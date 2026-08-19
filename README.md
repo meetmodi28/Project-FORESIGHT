@@ -21,3 +21,4 @@ The workflow is split into two main phases:
 ├── dashboard/              # The .pbix Power BI file
 ├── images/                 # Screenshots of the Power BI dashboard for the README
 └── README.md
+[📥 Download the full Power BI Dashboard (.pbix) (https://drive.google.com/drive/folders/1M4t1K5nawrsfi7AxK6D_y0lzuUAGrXT5?usp=sharing) ]
